@@ -1,3 +1,2 @@
-# My first project
-# simple programs
+# My first project simple programs
 
