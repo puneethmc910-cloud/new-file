@@ -31,7 +31,7 @@ int main() {
                 cout << "Error: Division by zero!" << endl;
             break;
         default:
-            cout << "Invalid operator!" << endl;
+            cout << "*===Invalid operator!====*" << endl;
     }
 
     return 0;
