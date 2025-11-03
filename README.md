@@ -56,7 +56,15 @@ Welcome to my **C++ Mini Projects** showcase! These projects demonstrate my skil
 **Concepts:** Classes, Composition, Data Linking  
 - Add and manage patient records  
 - Schedule and view appointments  
-- Maintain medical history details 
+- Maintain medical history details
+
+---
+
+## Stack Operations
+**Concepts:** Classes, Composition, Data Linking  
+- Add and manage Elements  
+- Insert at specific positions  
+- Display all element in stack and also display top elemet also
 
 
 
